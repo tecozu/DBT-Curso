@@ -13,3 +13,4 @@ profiles.yml
 
 # MacOS
 .DS_Store
+dbt_internal_packages/
