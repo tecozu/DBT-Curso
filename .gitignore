@@ -1,0 +1,15 @@
+# Ambiente virtual
+.venv/
+
+# Arquivos gerados pelo dbt
+target/
+dbt_packages/
+logs/
+
+# Arquivos sensíveis (NUNCA versionar isso)
+profiles.yml
+*.env
+.env
+
+# MacOS
+.DS_Store
