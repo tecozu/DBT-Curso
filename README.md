@@ -1,14 +1,9 @@
-Welcome to your new dbt project!
+# DBT Course
 
-### Using the starter project
+## What i've done: 
 
-Try running the following commands:
-- dbt build
-
-
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](http://slack.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+1. Create customers, orders and payment tables and feeding them through databricks
+2. Create dbt project
+3. Connect dbt project on databricks
+4. Remodeled querys to dbt patterns and jinja macros
+5. Change models materialization
