@@ -9,10 +9,12 @@
 5. Change models materialization
 6. Source file and remodeling src
 7. Applying freshness check
-
+8. Refactoring stg models to best pratices with CTE
+9. Running dbt tests
 
 ## Comamands:
 dbt init
 dbt debug
 dbt run
 dbt source freshness
+dbtf tests 
