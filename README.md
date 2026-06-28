@@ -7,3 +7,12 @@
 3. Connect dbt project on databricks
 4. Remodeled querys to dbt patterns and jinja macros
 5. Change models materialization
+6. Source file and remodeling src
+7. Applying freshness check
+
+
+## Comamands:
+dbt init
+dbt debug
+dbt run
+dbt source freshness
