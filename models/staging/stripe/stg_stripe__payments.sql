@@ -1,5 +1,5 @@
 with
-    source as (select * from {{ source("stripe", "payments") }}),
+    source as (select * from {{ source("stripe", "payment") }}),
 
     final as (
         select
